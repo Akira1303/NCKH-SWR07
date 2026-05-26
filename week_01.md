@@ -2,7 +2,7 @@
 
 ## Group Information
 
-- Class: SE2037
+- Class: SE2037  
 - Group: 7
 - Leader: Quãng Sĩ Hưng (SE201597)
 - Members:
@@ -17,10 +17,15 @@
 
 | Member | Task | Result |
 | Quãng Sĩ Hưng | Tổng hợp ý tưởng đề tài, phân tích bài toán trì hoãn học tập và xây dựng đề cương ban đầu cho hệ thống AI Assistant | Hoàn thành bản mô tả đề tài, xác định mục tiêu và hướng đi ban đầu cho đề tài          |
+
 | Nguyễn Đặng Quốc Bảo | Nghiên cứu mô hình LLM và khả năng tích hợp chatbot hỗ trợ tâm lý học tập  | Đề xuất sử dụng GPT-4o-mini/Llama 3 để xây dựng AI Mental Coach   |
+
 | Phan Tấn Tài  | Tìm hiểu phương pháp RAG và cách xây dựng cơ sở tri thức cho chatbot  | Thu thập tài liệu về Behavioral Psychology và các phương pháp Pomodoro, 5-minute rule |
+
 | Phạm Quốc Duy | Nghiên cứu các mô hình Machine Learning phục vụ dự đoán hành vi trì hoãn| Đề xuất sử dụng XGBoost/Random Forest để xây dựng Procrastination Risk Score          |
+
 | Lê Minh Quân | Phân tích các ứng dụng quản lý thời gian hiện tại và khảo sát nhu cầu người dùng sinh viên | Hoàn thành bảng so sánh ưu nhược điểm của Pomodoro App và To-do List truyền thống |
+
 | Nguyễn Hữu Thành  | Thiết kế sơ bộ kiến trúc hệ thống và luồng chức năng chính của ứng dụng| Xây dựng bản nháp kiến trúc gồm Frontend, Backend, AI Service và Database|
 
 
@@ -28,7 +33,7 @@
 
 | Commit ID | Message                                               | Author               |
 | --------- | ----------------------------------------------------- | -------------------- |
-| 518be04|  <docs>: <Gather content and ideas for the topic from members>   | Quãng Sĩ Hưng        |
+| 518be04|  "<docs>: <Gather content and ideas for the topic from members>"   | Quãng Sĩ Hưng        |
 
 
 ## Current Problems
