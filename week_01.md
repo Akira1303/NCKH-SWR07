@@ -16,6 +16,7 @@
 ## Tasks Completed This Week
 
 | Member | Task | Result |
+
 | Quãng Sĩ Hưng | Tổng hợp ý tưởng đề tài, phân tích bài toán trì hoãn học tập và xây dựng đề cương ban đầu cho hệ thống AI Assistant | Hoàn thành bản mô tả đề tài, xác định mục tiêu và hướng đi ban đầu cho đề tài          |
 
 | Nguyễn Đặng Quốc Bảo | Nghiên cứu mô hình LLM và khả năng tích hợp chatbot hỗ trợ tâm lý học tập  | Đề xuất sử dụng GPT-4o-mini/Llama 3 để xây dựng AI Mental Coach   |
@@ -33,7 +34,7 @@
 
 | Commit ID | Message                                               | Author               |
 | --------- | ----------------------------------------------------- | -------------------- |
-| 518be04|  "<docs>: <Gather content and ideas for the topic from members>"   | Quãng Sĩ Hưng        |
+| 518be04 |  docs : Gather content and ideas for the topic from members  | Quãng Sĩ Hưng        |
 
 
 ## Current Problems
