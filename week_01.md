@@ -25,10 +25,9 @@
 
 | Phạm Quốc Duy | Nghiên cứu các mô hình Machine Learning phục vụ dự đoán hành vi trì hoãn| Đề xuất sử dụng XGBoost/Random Forest để xây dựng Procrastination Risk Score          |
 
-| Lê Minh Quân | Phân tích các ứng dụng quản lý thời gian hiện tại và khảo sát nhu cầu người dùng sinh viên | Hoàn thành bảng so sánh ưu nhược điểm của Pomodoro App và To-do List truyền thống |
+| Lê Minh Quân | Phân tích các ứng dụng quản lý thời gian hiện tại | Hoàn thành bảng so sánh ưu nhược điểm của Pomodoro App và To-do List truyền thống |
 
-| Nguyễn Hữu Thành  | Thiết kế sơ bộ kiến trúc hệ thống và luồng chức năng chính của ứng dụng| Xây dựng bản nháp kiến trúc gồm Frontend, Backend, AI Service và Database|
-
+| Nguyễn Hữu Thành  |  khảo sát nhu cầu người dùng sinh viên | Hoàn thành bảng so sánh ưu nhược điểm của Pomodoro App và To-do List truyền thống |
 
 ## Git Commits
 
