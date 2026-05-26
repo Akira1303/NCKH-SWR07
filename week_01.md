@@ -2,10 +2,10 @@
 
 ## Group Information
 
--Class: SE2037
--Group: 7
--Leader: Quãng Sĩ Hưng (SE201597)
--Members:
+- Class: SE2037
+- Group: 7
+- Leader: Quãng Sĩ Hưng (SE201597)
+- Members:
 
 + Nguyễn Đặng Quốc Bảo (SE201564)
 + Phan Tấn Tài (SE201211)
@@ -28,7 +28,7 @@
 
 | Commit ID | Message                                               | Author               |
 | --------- | ----------------------------------------------------- | -------------------- |
-| 518be04| <docs>: <Gather content and ideas for the topic from members>   | Quãng Sĩ Hưng        |
+| 518be04|  <docs>: <Gather content and ideas for the topic from members>   | Quãng Sĩ Hưng        |
 
 
 ## Current Problems
