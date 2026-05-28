@@ -88,7 +88,7 @@ Nhóm sẽ đánh giá hệ thống như thế nào?
 | 4 | Leveraging Large Language Models for Conversational Agents in Intelligent Tutoring Systems| 2024| Computers and Education: Artificial Intelligence (Elsevier)| https://doi.org/10.1016/j.caeai.2024.100215|
 | 5 | Designing conversational Agents for adaptive instructional support in business simulation gaming| 2023|ScienceDirect. |https://www.sciencedirect.com/science/article/pii/S2666920X2600038X |
 
-#12. Research Questions
+# 12. Research Questions
 
 ### Main Research Question
 * **RQ1:** How effectively can an AI-driven personalized assistant mitigate academic procrastination and improve focus time among students compared with traditional passive time-management applications?
