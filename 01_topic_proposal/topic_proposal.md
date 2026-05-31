@@ -91,9 +91,9 @@ Nhóm sẽ đánh giá hệ thống như thế nào?
 # 12. Research Questions
 
 ### Main Research Question
-* **RQ1:** How effectively can an AI-driven personalized assistant mitigate academic procrastination and improve focus time among students compared with traditional passive time-management applications?
+* **RQ:**  How can requirements be specified and validated for a study assistant system that helps students manage tasks, reminders, and study time?
 
 ### Sub-questions
-* **RQ1.1:** Can LLMs trained on behavioral psychology scenarios successfully identify a student's lack of motivation and generate appropriate context-aware encouragement?
-* **RQ1.2:** How accurately can basic machine learning models predict a student's distraction index based on their historical application usage patterns?
-* **RQ1.3:** To what extent can the integration of gamification and proactive AI reminders reduce late assignment submissions and increase daily average study duration?
+* **RQ1:**  What requirements should be collected from students to understand their study planning habits, procrastination problems, and reminder preferences?
+* **RQ2:**  What functional requirements are needed for task management, study reminders, focus tracking, and simple motivational feedback?
+* **RQ3:** How can a prototype be used to validate whether students find the reminders, task planning, and progress tracking useful?
